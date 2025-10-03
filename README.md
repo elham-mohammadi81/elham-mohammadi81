@@ -10,18 +10,13 @@ I'm passionate about programming and artificial intelligence, and I'm eager to d
 🔗 LinkedIn: [Elham Mohammadi](https://www.linkedin.com/in/elham-mohammadi-b749b4216?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app)
 
 ## 🌱 Currently Learning
-Python 
-
-Python for scientific computing
+- Python 
+- Python for scientific computing
 
 ## 💬 Ask me about 
-Python
-
-simulations
-
-scientific computing
-
-PyQt5
+- Python
+- scientific computing
+- PyQt5
 
 ## ⚡ Fun Fact
 I enjoy connecting physics with coding and get excited when I see abstract ideas come to life through code 🚀
